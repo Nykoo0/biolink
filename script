@@ -111,11 +111,11 @@
 </header>
 
 <div class="links">
-  <a href="https://shock.lol/1" target="_blank" rel="noopener noreferrer">Link 1</a>
-  <a href="https://shock.lol/2" target="_blank" rel="noopener noreferrer">Link 2</a>
-  <a href="https://shock.lol/3" target="_blank" rel="noopener noreferrer">Link 3</a>
-  <a href="https://shock.lol/4" target="_blank" rel="noopener noreferrer">Link 4</a>
-  <a href="https://shock.lol/5" target="_blank" rel="noopener noreferrer">Link 5</a>
+  <a href="https://shock.lol/$n" target="_blank" rel="noopener noreferrer">Link 1</a>
+  <a href="https://shock.lol/$n" target="_blank" rel="noopener noreferrer">Link 2</a>
+  <a href="https://shock.lol/$n" target="_blank" rel="noopener noreferrer">Link 3</a>
+  <a href="https://shock.lol/$n" target="_blank" rel="noopener noreferrer">Link 4</a>
+  <a href="https://shock.lol/$n" target="_blank" rel="noopener noreferrer">Link 5</a>
 </div>
 
 <div class="watermark">Made by nykooo - https://shock.lol/$n</div>
